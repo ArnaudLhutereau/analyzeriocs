@@ -26,6 +26,7 @@ Feel free to suggest new tools with a merge request/issue.
 
 ![Search IP](https://raw.githubusercontent.com/ArnaudLhutereau/analyzeriocs/master/example_ip.gif)
 
+![Menu](https://raw.githubusercontent.com/ArnaudLhutereau/analyzeriocs/master/exemple_menu.png)
 
 ----
 ## Changelog
