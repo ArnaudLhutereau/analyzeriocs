@@ -116,7 +116,7 @@ function onClickHandler(info, tab) {
   } else if (info.menuItemId == "General_about") {
     // Search URL
     console.log("about");
-    chrome.tabs.create({url: "https://github.com/ArnaudLhutereau/"});
+    chrome.tabs.create({url: "https://github.com/ArnaudLhutereau/analyzeriocs"});
 
 
   } else {
